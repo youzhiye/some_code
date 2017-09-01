@@ -14,3 +14,6 @@ networkmanager //网络管理工具
 //压缩包密码破解工具
 binwalk //
 ark    //kde桌面压缩包管理工具
+
+cupp //密码生成软件
+
